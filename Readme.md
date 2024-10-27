@@ -1,4 +1,3 @@
-```markdown
 # NOTAM Translator
 
 This project provides a Python module for parsing and translating NOTAM (Notice to Airmen) messages.
